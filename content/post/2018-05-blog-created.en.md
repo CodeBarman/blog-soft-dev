@@ -1,9 +1,8 @@
 ---
 title: "My new blog and first post"
 date: 2018-05-31T14:24:06-05:00
-draft: "no"
+draft: false
 image: upload/img/posts/1_cover.jpeg
-lang: "en"
 ---
 
 Today is May 31, 2018 and I finally came up writing my personal blog. First content doesn't suppose to be interesting from the beginning but I promise it will become better and better each day :)
