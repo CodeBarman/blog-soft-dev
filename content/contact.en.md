@@ -17,7 +17,7 @@ url = "/en/contact"
     <label>Email <input type="email" name="email" /></label>
   </p>
   <p>
-    <textarea placeholder="Your message" rows="4" cols="25"></textarea>
+    <textarea placeholder="Your message" rows="4" cols="25" name="message"></textarea>
   </p>
   <p>
     <button type="submit">Send</button>
