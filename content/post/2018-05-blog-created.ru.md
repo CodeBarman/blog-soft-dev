@@ -1,7 +1,7 @@
 ---
 title: "Мой новый блог и первый пост"
 date: 2018-05-31T14:24:10-05:00
-draft: false
+draft: "no"
 image: upload/img/posts/1_cover.jpeg
 tags: []
 ---
