@@ -1,0 +1,91 @@
+baseurl         = "/"
+theme           = "hugo-casper-two"
+languageCode    = "en-US"
+disqusShortname = "code-bramans"
+paginate        = 6
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+title = "Code barman's"
+subtitle    = "Improve your software developer skills and learn new tools"
+author = "Yurii Pitomets"
+authorAvatar = "upload/img/standart/avatar.jpg"
+authorLocation = "Houston, TX, USA"
+authorWebsite = "https://yuppi.com.ua"
+authorDescription = "Software developer, Founder of startup"
+ageNotFoundTitle = "404 - Page not found"
+description = "Improve your software developer skills and learn new tools"
+metaDescription = "Improve your software developer skills and learn new tools"
+pageTitle = "Page"
+pageOf = "of"
+
+[languages.ru]
+languageName = "Russian"
+weight = 2
+title = "Код бармена"
+subtitle    = "Помогает улучшить навыки разработчика программного обеспечения"
+author = "Юрий Питомец"
+authorAvatar = "upload/img/standart/avatar.jpg"
+authorLocation = "Хьюстон, Техас, США"
+authorWebsite = "https://yuppi.com.ua"
+authorDescription = "Разрабочик программного обеспечения, Основатель стартапа"
+pageNotFoundTitle = "404 - Страница не найдена"
+description = "Улучшите свои навыки разработчика программного обеспечения и изучите новые инструменты"
+metaDescription = "Улучшите свои навыки разработчика программного обеспечения и изучите новые инструменты"
+pageTitle = "Страница"
+pageOf = "из"
+
+[[languages.en.menu.main]]
+url = "/en"
+name = "Home"
+weight = 200
+
+[[languages.en.menu.main]]
+url = "/en/about"
+name = "About me"
+weight = 190
+
+[[languages.en.menu.main]]
+url = "/en/contact"
+name = "Contact me"
+weight = 180
+
+[[languages.ru.menu.main]]
+url = "/ru"
+name = "Главная"
+weight = 200
+
+[[languages.ru.menu.main]]
+url = "/ru/about"
+name = "Обо мне"
+weight = 190
+
+[[languages.ru.menu.main]]
+url = "/ru/contact"
+name = "Связаяться со мной"
+weight = 180
+
+[params]
+  cover = "upload/img/standart/backdrop.jpeg"
+  
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "CodeBarman"
+  githubName = "CodeBarman"
+
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+

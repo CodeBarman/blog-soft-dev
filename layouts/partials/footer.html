@@ -1,0 +1,17 @@
+<footer class="site-footer outer">
+  <div class="site-footer-content inner">
+    <section>
+        <div id="languages">
+            {{ if .IsTranslated }}
+              {{ range $i, $e := .Translations }}
+                {{ if $i }}, {{ end }}<a href="{{ .Permalink }}">{{ $e.Language.LanguageName }}</a>
+              {{ end}}
+            {{ end }}
+          </div>
+    </section>
+    <nav class="site-footer-nav">
+        {{with .Site.Params.twitterName}}<a href="https://twitter.com/{{.}}" target="_blank" rel="noopener">Twitter</a>{{end}}
+        {{with .Site.Params.githubName}}<a href="https://github.com/{{.}}" target="_blank" rel="noopener">Github</a>{{end}}
+    </nav>  
+  </div>
+</footer>
