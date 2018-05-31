@@ -2,7 +2,7 @@
 title: "My new blog and first post"
 date: 2018-05-31T14:24:06-05:00
 draft: false
-image: upload/img/posts/blog-created/cover.jpeg
+image: upload/img/posts/1_cover.jpeg
 tags: []
 ---
 
