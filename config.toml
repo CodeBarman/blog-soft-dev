@@ -71,7 +71,7 @@ weight = 180
   cover = "upload/img/standart/backdrop.jpeg"
   
   googleAnalytics = ""
-  customCSS = []
+  customCSS = ["css/custom.css"]
   RSSLink = ""
 
   twitterName = "CodeEsthete"

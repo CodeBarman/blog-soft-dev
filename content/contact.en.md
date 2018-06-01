@@ -9,15 +9,15 @@ type = "page"
 url = "/en/contact"
 +++
 
-<form name="contact" netlify>
+<form class="contact-form" name="contact" netlify>
   <p>
-    <label>Name <input type="text" name="name" /></label>
+    <label>Name <input type="text" name="name" required autocomplete="off"/></label>
   </p>
   <p>
-    <label>Email <input type="email" name="email" /></label>
+    <label>Email <input type="email" name="email" required autocomplete="off"/></label>
   </p>
   <p>
-    <textarea placeholder="Your message" rows="4" cols="25" name="message"></textarea>
+    <textarea placeholder="Your message" rows="4" cols="25" name="message" required></textarea>
   </p>
   <p>
     <button type="submit">Send</button>
