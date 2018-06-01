@@ -8,4 +8,4 @@ Blog created using [Hugo](https://gohugo.io/) framework for building static web 
 
 Blog deployed under following domain:
 
-```https://CodeEsthete.netlify.com```
+```https://CodeEsthete.netlify.com``` [Open link](https://CodeEsthete.netlify.com)
