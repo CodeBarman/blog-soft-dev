@@ -1,4 +1,4 @@
-## Title
+## Repository description
 
 This repository is dedicated to a personal blog hosted on [Netlify](https://netlify.com]).
 
