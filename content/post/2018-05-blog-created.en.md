@@ -35,6 +35,6 @@ Yeah, I think that's it. After some research I found [Hugo](https://gohugo.io/) 
 - I will add new pages and customize the blog as I go further with content;
 - Once I will add ten posts I will consider buying a custom domain.
 
-BTW, how do you like the name "Code barman's"? Please leave your comment under the post.
+BTW, how do you like the name "Code Esthete"? Please leave your comment under the post.
 
 And I think it is enough for the first post. If you have any suggestions please feel free to reach me via Contact me page.

@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: CodeBarman/blog-soft-dev
+  repo: CodeEsthete/blog-soft-dev
   branch: master 
   
 media_folder: "static/upload/img/posts"

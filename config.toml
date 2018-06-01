@@ -1,39 +1,39 @@
 baseurl         = "/"
 theme           = "hugo-casper-two"
 languageCode    = "en-US"
-disqusShortname = "code-bramans"
+disqusShortname = "codeesthete"
 paginate        = 6
 
 [languages]
 [languages.en]
 languageName = "English"
 weight = 1
-title = "Code barman's"
-subtitle    = "Improve your software developer skills and learn new tools"
+title = "Code Esthete"
+subtitle    = "I help professional developers to feel beauty of the code."
 author = "Yurii Pitomets"
 authorAvatar = "upload/img/standart/avatar.jpg"
 authorLocation = "Houston, TX, USA"
 authorWebsite = "https://yuppi.com.ua"
 authorDescription = "Software developer, Founder of startup"
 ageNotFoundTitle = "404 - Page not found"
-description = "Improve your software developer skills and learn new tools"
-metaDescription = "Improve your software developer skills and learn new tools"
+description = "I help professional developers to feel beauty of the code."
+metaDescription = "I help professional developers to feel beauty of the code."
 pageTitle = "Page"
 pageOf = "of"
 
 [languages.ru]
 languageName = "Russian"
 weight = 2
-title = "Код бармена"
-subtitle    = "Улучшите свои навыки разработчика программного обеспечения и изучите новые инструменты"
+title = "Code Esthete"
+subtitle    = "Я помогаю профессиональным разработчикам чувствовать красоту кода."
 author = "Юрий Питомец"
 authorAvatar = "upload/img/standart/avatar.jpg"
 authorLocation = "Хьюстон, Техас, США"
 authorWebsite = "https://yuppi.com.ua"
 authorDescription = "Разрабочик программного обеспечения, Основатель стартапа"
 pageNotFoundTitle = "404 - Страница не найдена"
-description = "Улучшите свои навыки разработчика программного обеспечения и изучите новые инструменты"
-metaDescription = "Улучшите свои навыки разработчика программного обеспечения и изучите новые инструменты"
+description = "Я помогаю профессиональным разработчикам чувствовать красоту кода."
+metaDescription = "Я помогаю профессиональным разработчикам чувствовать красоту кода."
 pageTitle = "Страница"
 pageOf = "из"
 
@@ -74,14 +74,12 @@ weight = 180
   customCSS = []
   RSSLink = ""
 
-  twitterName = "CodeBarman"
-  githubName = "CodeBarman"
+  twitterName = "CodeEsthete"
+  githubName = "CodeEsthete"
 
   orgName = "EM"
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
-
-
 
   #casper or caspertwo
   singleViewStyle = "casper"
